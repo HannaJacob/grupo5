@@ -11,5 +11,5 @@ O projeto é um atendimento virtual de uma hamburgueria, onde o cliente primeira
 
 ## Como rodar a aplicação :arrow_forward:
 
-https://github.com/HannaJacob/grupo5/blob/master/ProjetoModulo1_Senac_Grupo5.py
+ProjetoModulo1_Senac_Grupo5.py
 
