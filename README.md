@@ -32,3 +32,22 @@ Projeto concluído, sendo realizado por integrantes do grupo 5 do curso de forma
 
 - ``Python`` 
 
+## Squad
+Hanna Jacob - Gestora de Pessoas
+
+![IMG_20210413_223854482 (1)](https://github.com/HannaJacob/grupo5/assets/144841827/37ca1ffb-5dec-466a-aee8-88e0a2d4f673)
+
+Ederson Macedo - Gestor de Conhecimento
+
+![ederson (1)](https://github.com/HannaJacob/grupo5/assets/144841827/6158e40d-230a-4d11-9721-7b4566c162bb)
+
+Arthur Lorran - Co-Facilitador
+
+![WhatsApp Image 2023-09-25 at 21 33 34 (1)](https://github.com/HannaJacob/grupo5/assets/144841827/61c15ee8-8642-483e-a0a7-18264c269473)
+
+Fernando Barbosa - Colaborador
+
+![Sem título (1)](https://github.com/HannaJacob/grupo5/assets/144841827/534def0a-8df4-414c-afe7-8c83d7912840)
+
+
+
