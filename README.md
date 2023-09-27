@@ -2,10 +2,33 @@
  <p align="center">  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
+# Resumo do projeto 
 
-## Descrição do projeto 
+Projeto concluído, sendo realizado por integrantes do grupo 5 do curso de formação análise de dados do Senac/Resilia, visando a prática com a linguagem Python. 
 
-<p align="justify">
-O projeto é um atendimento virtual de uma hamburgueria, onde o cliente primeiramente digita sua distância do estabelecimento para verificar se está na área de cobertura. Se sim, logo após, inicia seu atendimento, onde ele terá 3 opções de pedidos: Hambúrgueres, Bebidas e Acompanhamentos. Para cada pedido, ele dirá se gostaria de continuar pedindo ou se passará para a próxima opção. Ao final do pedido, serão fornecidos: nome, endereço, tempo de entrega, itens e o total do pedido. 
-</p>
+  
+
+## 🔨 Funcionalidades do projeto 
+
+  
+
+- `Funcionalidade 1` `Verificação de área de cobertura`: O cliente digita quantos quilômetros está da loja e o sistema verifica se está na área de cobertura que é de 10 Km. 
+
+- `Funcionalidade 2` `Cadastro de informações`: O cliente informa seu nome e endereço seguindo o exemplo fornecido. (Ex: Getúlio Vargas, Avenida Presidente Vargas, 435) 
+
+- `Funcionalidade 3` `Escolha dos itens`: O cliente escolhe 3 opções de pedidos: Hambúrgueres, Bebidas e Acompanhamentos. Para cada opção, ele dirá se gostaria de mais um item daquela opção ou se passará para a próxima fase. 
+
+- `Funcionalidade 4` `Revisão do pedido`: Após realizar o pedido serão fornecidos: nome, endereço, tempo de entrega, itens e o total do pedido. 
+
+- `Funcionalidade 5` `Pesquisa de satisfação`: Ao final do pedido o cliente ainda tem a opção de enviar um feedback, fazer uma reclamação, tirar dúvidas ou ter informações sobre a instituição. 
+
+ 
+
+  
+
+## ✔️ Técnicas e tecnologias utilizadas 
+
+  
+
+- ``Python`` 
 
